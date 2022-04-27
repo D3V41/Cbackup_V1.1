@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="customAttrs">
+        <attr name="contactBook" format="reference" />
+        <attr name="txt" format="reference"/>
+        <attr name="ripple" format="reference"/>
+        <attr name="imgDelete" format="reference"/>
+        <attr name="imgShare" format="reference"/>
+    </declare-styleable>
+</resources>

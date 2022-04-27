@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cbackup</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="splashtitle">CBackup</string>
+    <string name="imageContent">ContactBook</string>
+    <string name="totalContacts">Total Contacts: 0</string>
+</resources>
